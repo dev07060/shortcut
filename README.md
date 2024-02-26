@@ -4,7 +4,10 @@
 
 ## Main library - description
 **Riverpod - State management**
+
 **Go_router - Router Navigation**
+
 **Dio - API Request/Response**
+
 **App_usage - monitoring app uasge history, in dateTime**
 
