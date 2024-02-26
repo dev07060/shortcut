@@ -1,16 +1,10 @@
-# shortcut
+# 숏컷(Shortcut)
 
-Short-form addiction checker
+숏폼 컨텐츠 포함 앱 이용기록 모니터링을 통해 알림을 통한 자기자제 습관을 형성하기 위한 앱.
 
-## Getting Started
+## Main library - description
+Riverpod - State management
+Go_router - Router Navigation
+Dio - API Request/Response
+App_usage - monitoring app uasge history, in dateTime
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
